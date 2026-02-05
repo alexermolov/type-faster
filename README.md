@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="build/icon.png" alt="TypeFaster Logo" width="150" height="150">
+  <img src="./build/icon.png" alt="TypeFaster Logo" width="150" height="150">
   
   # TypeFaster ⌨️
   
@@ -19,6 +19,7 @@
 ## ✨ Features
 
 ### 📚 Comprehensive Lesson System
+
 - **Home Row Basics** - Master the foundation keys (ASDF JKL;)
 - **Top Row Training** - Practice QWERTY row
 - **Bottom Row Mastery** - Learn ZXCVBNM keys
@@ -29,12 +30,14 @@
 - **Code Typing** - HTML, CSS, JavaScript, and Python snippets
 
 ### 🎯 Progressive Learning
+
 - Structured lessons from beginner to advanced
 - Target WPM and accuracy goals for each lesson
 - Difficulty-based categorization
 - 35+ unique lessons covering all aspects of typing
 
 ### ⚡ Real-Time Feedback
+
 - Live WPM (Words Per Minute) calculation
 - Instant accuracy percentage
 - Character-by-character validation
@@ -42,12 +45,14 @@
 - Progress tracking as you type
 
 ### 🎨 Visual Keyboard Guide
+
 - Interactive virtual keyboard
 - Highlighted keys show next character
 - Proper finger placement guidance
 - Modern, attractive design
 
 ### 📊 Progress Tracking
+
 - Detailed statistics dashboard
 - Historical performance data
 - Best WPM records
@@ -56,6 +61,7 @@
 - Per-lesson progress tracking
 
 ### 🌙 Beautiful UI/UX
+
 - Modern dark theme optimized for reduced eye strain
 - Smooth animations and transitions
 - Responsive design
@@ -72,17 +78,20 @@
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/type-faster.git
 cd type-faster
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Run in development mode:
+
 ```bash
 npm run electron:dev
 ```
@@ -90,11 +99,13 @@ npm run electron:dev
 ### Building
 
 Build for your current platform:
+
 ```bash
 npm run build
 ```
 
 Build for specific platforms:
+
 ```bash
 npm run build:win    # Windows
 npm run build:mac    # macOS
@@ -202,6 +213,7 @@ Contributions are welcome! Here's how you can help:
 5. Open a Pull Request
 
 ### Ideas for Contributions
+
 - Add new lesson content
 - Implement sound effects
 - Add more themes (light mode, custom colors)
