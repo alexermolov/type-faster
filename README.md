@@ -1,11 +1,18 @@
-# TypeFaster ⌨️
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Electron](https://img.shields.io/badge/Electron-28.x-47848F?logo=electron)](https://www.electronjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js)](https://vuejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-
-A modern, open-source typing trainer application for learning touch typing in English. Built with Electron, Vue 3, TypeScript, and Pinia.
+<div align="center">
+  <img src="build/icon.png" alt="TypeFaster Logo" width="150" height="150">
+  
+  # TypeFaster ⌨️
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![Electron](https://img.shields.io/badge/Electron-28.x-47848F?logo=electron)](https://www.electronjs.org/)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js)](https://vuejs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+  
+  **A modern, open-source typing trainer application for learning touch typing in English.**
+  
+  Built with Electron, Vue 3, TypeScript, and Pinia.
+  
+</div>
 
 ![TypeFaster Screenshot](screenshot.png)
 
