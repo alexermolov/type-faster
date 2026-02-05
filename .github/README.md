@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/alexermolov/type-faster/main/build/logo.png" alt="GitLoom" width="140" />
+<img src="https://raw.githubusercontent.com/alexermolov/type-faster/main/build/logo.png" alt="TypeFaster" width="140" />
 
 # TypeFaster ⌨️
 
@@ -14,7 +14,7 @@ Built with Electron, Vue 3, TypeScript, and Pinia.
 
 </div>
 
-![TypeFaster Screenshot](screenshot.png)
+<img src="https://raw.githubusercontent.com/alexermolov/type-faster/main/build/screenshot.png" alt="TypeFaster"  />
 
 ## ✨ Features
 
